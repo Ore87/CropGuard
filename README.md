@@ -129,9 +129,14 @@
 
 ---
 
+The image below demonstrates CropGuard's AI model successfully detecting the Fall Armyworm, a highly destructive agricultural pest.
 ![train_batch_result](https://github.com/user-attachments/assets/a94fa1b0-4751-4ba5-83a5-2563836e42b6)
 
 
+To see the CropGuard AI model working in real-time, including its ability to accurately identify the Fall Armyworm, please check out our collection of video demonstrations:
+* [**Watch the AI Pest Detection Demos (Google Drive)**](https://drive.google.com/drive/folders/1ihYpt7L4-5g4bLGbRkJzc3agbXaAFrML?usp=drive_link)
+
+* 
 ## 🛠️ Tech Stack
 
 ### Frontend
