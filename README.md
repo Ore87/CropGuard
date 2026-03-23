@@ -129,6 +129,9 @@
 
 ---
 
+![train_batch_result](https://github.com/user-attachments/assets/a94fa1b0-4751-4ba5-83a5-2563836e42b6)
+
+
 ## 🛠️ Tech Stack
 
 ### Frontend
