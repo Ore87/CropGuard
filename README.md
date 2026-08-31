@@ -39,6 +39,12 @@
 
 ---
 
+# 🌾 Website
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-crop--guard1.vercel.app-2ea44f?style=for-the-badge&logo=vercel)](https://crop-guard1.vercel.app/)
+
+> **Live Application:** [https://crop-guard1.vercel.app/](https://crop-guard1.vercel.app/)
+
 ## 🎯 Overview
 
 **CropGuard** is a comprehensive agricultural technology platform designed to revolutionize farm management through artificial intelligence and IoT integration. Built for Nigerian farmers and agronomists, it provides real-time pest detection, environmental monitoring, and actionable insights to protect crops and maximize yields.
