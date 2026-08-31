@@ -39,7 +39,7 @@
 
 ---
 
-# 🌾 Website
+#  Website
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-crop--guard1.vercel.app-2ea44f?style=for-the-badge&logo=vercel)](https://crop-guard1.vercel.app/)
 
