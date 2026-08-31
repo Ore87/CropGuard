@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Powered-Gemini%20Pro-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Codex%20-Gemini%20Pro-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
   <img src="https://img.shields.io/badge/IoT-Sensor%20Ready-FF6F00?style=flat-square&logo=arduino&logoColor=white" alt="IoT"/>
   <img src="https://img.shields.io/badge/SMS-Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio"/>
 </p>
