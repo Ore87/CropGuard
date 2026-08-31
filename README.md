@@ -595,9 +595,6 @@ For support, reach out through the in-app Farm Advisor or contact the developmen
 ---
 
 <p align="center">
-  <strong>Built with lovable for all Farmers</strong>
+  <strong>Built with Codex for all Farmers</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Lovable-ff69b4?style=for-the-badge" alt="Made with Lovable"/>
-</p>
