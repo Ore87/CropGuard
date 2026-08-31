@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  🌱 CropGuard
+   CropGuard
 </h1>
 
 <p align="center">
@@ -45,13 +45,13 @@
 
 > **Live Application:** [https://crop-guard1.vercel.app/](https://crop-guard1.vercel.app/)
 
-## 🎯 Overview
+##  Overview
 
 **CropGuard** is a comprehensive agricultural technology platform designed to revolutionize farm management through artificial intelligence and IoT integration. Built for Nigerian farmers and agronomists, it provides real-time pest detection, environmental monitoring, and actionable insights to protect crops and maximize yields.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-                        🌾 CropGuard  
+                         CropGuard  
 ├─────────────────────────────────────────────────────────────────────┤
    📸 AI Detection  │  🌡️ IoT Sensors  │  ☁️ Weather  │  📊 Market  
 ├─────────────────────────────────────────────────────────────────────┤
